@@ -1,0 +1,79 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:15
+        env:
+          POSTGRES_DB: mini_db
+          POSTGRES_USER: miniapp_user
+          POSTGRES_PASSWORD: miniapp_user_12345
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U miniapp_user -d mini_db"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: 1.20
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Run Backend Tests
+      working-directory: ./backend
+      run: |
+        go test ./... -v
+
+    - name: Run Frontend Tests
+      working-directory: ./frontend
+      run: |
+        npm install
+        npm run test
+
+    - name: Build Backend
+      working-directory: ./backend
+      run: |
+        go build -o main
+
+    - name: Build Frontend
+      working-directory: ./frontend
+      run: |
+        npm run build
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: test-and-build
+
+    steps:
+    - name: Deploy with Docker Compose
+      uses: appleboy/ssh-action@v0.1.5
+      with:
+        host: ${{ secrets.SERVER_HOST }}
+        username: ${{ secrets.SERVER_USER }}
+        key: ${{ secrets.SERVER_KEY }}
+        script: |
+          cd /path/to/project
+          docker-compose down
+          docker-compose up -d --build

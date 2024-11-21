@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      DB_HOST: postgres
+      DB_NAME: mini_db
+      DB_USER: miniapp_user
+      DB_PASSWORD: miniapp_user_12345
+      DB_SSLMODE: disable
+      DB_PORT: 5432
+      SECRET: 9y/scCRS5dLC7HvpPHQKYk+OINUdPSYKcjABnmgcxns=
+    depends_on:
+      - postgres
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:8080
+
+  postgres:
+    image: postgres:15
+    container_name: postgres
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: mini_db
+      POSTGRES_USER: miniapp_user
+      POSTGRES_PASSWORD: miniapp_user_12345
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:

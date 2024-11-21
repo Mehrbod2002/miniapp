@@ -1,0 +1,3 @@
+CREATE USER miniapp_user WITH PASSWORD 'miniapp_user_12345';
+CREATE DATABASE mini_db;
+GRANT ALL PRIVILEGES ON DATABASE mini_db TO miniapp_user;

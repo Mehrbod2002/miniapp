@@ -1,0 +1,291 @@
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:32:42Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:33:12Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:33:12Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:33:12Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:33:12Z"}
+{"clientIP":"130.255.251.168","latency":"2.05192ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T04:33:20Z"}
+{"clientIP":"130.255.251.168","latency":"143.992µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/3c83d66a9ba79cf51f3b58e4a5fa7b4c55d48e127c6953dddf2ce40b145fe331","status":401,"time":"2024-11-21T04:33:21Z"}
+{"clientIP":"130.255.251.168","latency":"193.064µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:33:21Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:33:21Z"}
+{"clientIP":"130.255.251.168","latency":"59.701µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/3c83d66a9ba79cf51f3b58e4a5fa7b4c55d48e127c6953dddf2ce40b145fe331","status":401,"time":"2024-11-21T04:33:23Z"}
+{"clientIP":"130.255.251.168","latency":"101.912µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:33:23Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:33:23Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:34:11Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:34:11Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:34:11Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:34:11Z"}
+{"clientIP":"130.255.251.168","latency":"96.232µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/3c83d66a9ba79cf51f3b58e4a5fa7b4c55d48e127c6953dddf2ce40b145fe331","status":401,"time":"2024-11-21T04:34:11Z"}
+{"clientIP":"130.255.251.168","latency":"360.647µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:34:12Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:34:12Z"}
+{"clientIP":"130.255.251.168","latency":"60.281µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/3c83d66a9ba79cf51f3b58e4a5fa7b4c55d48e127c6953dddf2ce40b145fe331","status":401,"time":"2024-11-21T04:34:22Z"}
+{"clientIP":"130.255.251.168","latency":"101.352µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:34:22Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:34:22Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:35:09Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:35:09Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:35:09Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:35:09Z"}
+{"clientIP":"130.255.251.168","latency":"1.0175ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T04:35:20Z"}
+{"clientIP":"130.255.251.168","latency":"111.223µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/136b6e20290ca26277e466069b8a5e7b2f1cfb68d412a1449d696327cd9f99b5","status":401,"time":"2024-11-21T04:35:23Z"}
+{"clientIP":"130.255.251.168","latency":"207.184µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:35:23Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:35:23Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:35:47Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:35:47Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:35:47Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:35:47Z"}
+{"clientIP":"130.255.251.168","latency":"100.452µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/136b6e20290ca26277e466069b8a5e7b2f1cfb68d412a1449d696327cd9f99b5","status":401,"time":"2024-11-21T04:35:47Z"}
+{"clientIP":"130.255.251.168","latency":"193.843µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:35:48Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:35:48Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:36:02Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:36:02Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:36:02Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:36:02Z"}
+{"clientIP":"130.255.251.168","latency":"102.922µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/136b6e20290ca26277e466069b8a5e7b2f1cfb68d412a1449d696327cd9f99b5","status":401,"time":"2024-11-21T04:36:03Z"}
+{"clientIP":"130.255.251.168","latency":"319.286µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:36:03Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:36:03Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:37:38Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:37:38Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:37:38Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:37:38Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:37:44Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:37:44Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:37:44Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:37:44Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:38:34Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:38:34Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:38:34Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:38:34Z"}
+{"clientIP":"130.255.251.168","latency":"136.182µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/136b6e20290ca26277e466069b8a5e7b2f1cfb68d412a1449d696327cd9f99b5","status":401,"time":"2024-11-21T04:38:35Z"}
+{"clientIP":"130.255.251.168","latency":"332.506µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:38:35Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:38:35Z"}
+{"clientIP":"130.255.251.168","latency":"88.802µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/136b6e20290ca26277e466069b8a5e7b2f1cfb68d412a1449d696327cd9f99b5","status":401,"time":"2024-11-21T04:38:37Z"}
+{"clientIP":"130.255.251.168","latency":"97.722µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:38:37Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:38:37Z"}
+{"clientIP":"130.255.251.168","latency":"97.362µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/136b6e20290ca26277e466069b8a5e7b2f1cfb68d412a1449d696327cd9f99b5","status":401,"time":"2024-11-21T04:38:41Z"}
+{"clientIP":"130.255.251.168","latency":"101.572µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:38:41Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:38:41Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:43:36Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:43:36Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:43:36Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:43:36Z"}
+{"clientIP":"130.255.251.168","latency":"1.222113ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T04:43:46Z"}
+{"clientIP":"130.255.251.168","latency":"132.503µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/[object Object]","status":401,"time":"2024-11-21T04:43:47Z"}
+{"clientIP":"130.255.251.168","latency":"175.923µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:43:47Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:43:47Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:46:50Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:46:50Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:46:50Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:46:50Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T04:47:16Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T04:47:16Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T04:47:16Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T04:47:16Z"}
+{"clientIP":"130.255.251.168","latency":"60.431µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/register=query_id=AAFwpWdVAgAAAHClZ1XyI6Yf\u0026user=%7B%22id%22%3A5727823216%2C%22first_name%22%3A%22M.%20Akhlaghpour%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22mehrbodc%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FaYRWHSEmw82VnTfD_fxxSGRNesdTIpeuobwV_njb8j8Wsnhn7iqQ1v36B78Ewj9n.svg%22%7D\u0026auth_date=1732164438\u0026signature=A7-mm_mmDzu7gbqYwEstqFrc2lal8L5G4WWqrYmpSqydzP3N-vL04_VdwB0U5h4fLH0viizD-Aesxdz_GE-BAg\u0026hash=6f3f623ddba3358e5c056a31f5820eb54994898e32e27660c86def270b7002c7","status":404,"time":"2024-11-21T04:47:20Z"}
+{"clientIP":"130.255.251.168","latency":"233.575µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:47:21Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 404","time":"2024-11-21T04:47:21Z"}
+{"clientIP":"130.255.251.168","latency":"1.014679ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T04:49:25Z"}
+{"clientIP":"130.255.251.168","latency":"104.562µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/[object Object]","status":401,"time":"2024-11-21T04:49:26Z"}
+{"clientIP":"130.255.251.168","latency":"97.992µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:49:26Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 401","time":"2024-11-21T04:49:26Z"}
+{"clientIP":"130.255.251.168","latency":"818.406µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T04:50:56Z"}
+{"clientIP":"130.255.251.168","latency":"28.911µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/query_id=AAFwpWdVAgAAAHClZ1VRBDjL\u0026user={\"id\":5727823216,\"first_name\":\"M. Akhlaghpour\",\"last_name\":\"\",\"username\":\"mehrbodc\",\"language_code\":\"en\",\"allows_write_to_pm\":true,\"photo_url\":\"https:\\/\\/t.me\\/i\\/userpic\\/320\\/aYRWHSEmw82VnTfD_fxxSGRNesdTIpeuobwV_njb8j8Wsnhn7iqQ1v36B78Ewj9n.svg\"}\u0026auth_date=1732164651\u0026signature=nJJVrU5PykYYpdXTDzllVFEAmLF-TtUBXw8gIp2NCPK_lYthvdUBUkLxClqVY46AFVgZGFczkdkE3BTul-TBBw\u0026hash=4cb80026f536febd68508b5221d4b213847b1ad7adc26d7c45ddee67c858cab7","status":404,"time":"2024-11-21T04:50:57Z"}
+{"clientIP":"130.255.251.168","latency":"81.901µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/log","status":200,"time":"2024-11-21T04:50:58Z"}
+{"level":"info","msg":"Log entry saved: Request failed with status code 404","time":"2024-11-21T04:50:58Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:03:06Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:03:06Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:03:06Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:03:06Z"}
+{"clientIP":"130.255.251.168","latency":"1.273964ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T05:03:12Z"}
+{"clientIP":"130.255.251.168","latency":"35.421µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/query_id=AAFwpWdVAgAAAHClZ1VGLdTw\u0026user={\"id\":5727823216,\"first_name\":\"M. Akhlaghpour\",\"last_name\":\"\",\"username\":\"mehrbodc\",\"language_code\":\"en\",\"allows_write_to_pm\":true,\"photo_url\":\"https:\\/\\/t.me\\/i\\/userpic\\/320\\/aYRWHSEmw82VnTfD_fxxSGRNesdTIpeuobwV_njb8j8Wsnhn7iqQ1v36B78Ewj9n.svg\"}\u0026auth_date=1732165390\u0026signature=Am3MMs-aqdEVwrIqRomD2gCxN2pJ_cBfDkWC1KQcZVKiyRU-KGz1lv8eaEi-zLUOgtFMS5VpDdQpyxo13SYvCA\u0026hash=c5bf3955f9fbbfcf020e86b71bfb186b5bed1a6ab39b258dce27ec90ce6bb0f3","status":404,"time":"2024-11-21T05:03:16Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:04:26Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:04:26Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:04:26Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:04:26Z"}
+{"clientIP":"130.255.251.168","latency":"1.02094ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T05:04:33Z"}
+{"clientIP":"130.255.251.168","latency":"27.82µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/query_id=AAFwpWdVAgAAAHClZ1WL_L31\u0026user={\"id\":5727823216,\"first_name\":\"M. Akhlaghpour\",\"last_name\":\"\",\"username\":\"mehrbodc\",\"language_code\":\"en\",\"allows_write_to_pm\":true,\"photo_url\":\"https:\\/\\/t.me\\/i\\/userpic\\/320\\/aYRWHSEmw82VnTfD_fxxSGRNesdTIpeuobwV_njb8j8Wsnhn7iqQ1v36B78Ewj9n.svg\"}\u0026auth_date=1732165470\u0026signature=bqMoN-LzJhocCxJMv8AW6Kz63A0Gl2BWMOH235n3YO2owgqsPMpFWOHq4X5GaSkr9gqPzhjqAvU8_u9fFbATAw\u0026hash=7c2ab2cf737b95a194340d4d3b628bf3a3dd2c967ab18beb84439112844a29fd","status":404,"time":"2024-11-21T05:04:34Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:05:47Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:05:47Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:05:47Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:05:47Z"}
+{"clientIP":"130.255.251.168","latency":"978.659µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T05:05:58Z"}
+{"clientIP":"130.255.251.168","latency":"91.382µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/query_id=AAFwpWdVAgAAAHClZ1XJppoH\u0026user=%7B%22id%22%3A5727823216%2C%22first_name%22%3A%22M.%20Akhlaghpour%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22mehrbodc%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FaYRWHSEmw82VnTfD_fxxSGRNesdTIpeuobwV_njb8j8Wsnhn7iqQ1v36B78Ewj9n.svg%22%7D\u0026auth_date=1732165554\u0026signature=WGYhOcCo-60rA5g6rW11DOidiW0FkEoOGcHNBwa2tgfbsUlUSHvcBiyPOFjGf4ivLT8u-U4ed1T7_exytTsGBA\u0026hash=6f31fe714c83a670cfad6a8c17d9a18420616df21d14f8a5f72cd167a00c0a59","status":401,"time":"2024-11-21T05:06:01Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:06:37Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:06:37Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:06:37Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:06:37Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:07:29Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:07:29Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:07:29Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:07:29Z"}
+{"clientIP":"130.255.251.168","latency":"156.783µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216/query_id=AAFwpWdVAgAAAHClZ1XJppoH\u0026user=%7B%22id%22%3A5727823216%2C%22first_name%22%3A%22M.%20Akhlaghpour%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22mehrbodc%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FaYRWHSEmw82VnTfD_fxxSGRNesdTIpeuobwV_njb8j8Wsnhn7iqQ1v36B78Ewj9n.svg%22%7D\u0026auth_date=1732165554\u0026signature=WGYhOcCo-60rA5g6rW11DOidiW0FkEoOGcHNBwa2tgfbsUlUSHvcBiyPOFjGf4ivLT8u-U4ed1T7_exytTsGBA\u0026hash=6f31fe714c83a670cfad6a8c17d9a18420616df21d14f8a5f72cd167a00c0a59","status":401,"time":"2024-11-21T05:07:32Z"}
+{"clientIP":"130.255.251.168","latency":"1.118771ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T05:07:40Z"}
+{"clientIP":"130.255.251.168","latency":"26.5µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":404,"time":"2024-11-21T05:07:42Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:08:42Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:08:42Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:08:42Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:08:42Z"}
+{"clientIP":"130.255.251.168","latency":"35.06µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":404,"time":"2024-11-21T05:08:48Z"}
+{"clientIP":"130.255.251.168","latency":"1.453678ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T05:08:48Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:09:11Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:09:11Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:09:11Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:09:11Z"}
+{"clientIP":"130.255.251.168","latency":"47.231µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":404,"time":"2024-11-21T05:09:19Z"}
+{"clientIP":"130.255.251.168","latency":"1.051901ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T05:09:19Z"}
+{"clientIP":"130.255.251.168","latency":"26.67µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":404,"time":"2024-11-21T05:09:21Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:10:46Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:10:46Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:10:46Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:10:46Z"}
+{"clientIP":"130.255.251.168","latency":"70.001µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":401,"time":"2024-11-21T05:10:51Z"}
+{"clientIP":"130.255.251.168","latency":"1.001229ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T05:10:51Z"}
+{"clientIP":"130.255.251.168","latency":"64.771µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":401,"time":"2024-11-21T05:10:57Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:11:39Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:11:39Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:11:39Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:11:39Z"}
+{"clientIP":"130.255.251.168","latency":"894.077µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:42Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 1","time":"2024-11-21T05:11:42Z"}
+{"clientIP":"130.255.251.168","latency":"514.73µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:42Z"}
+{"clientIP":"130.255.251.168","latency":"603.772µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:43Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 2","time":"2024-11-21T05:11:43Z"}
+{"clientIP":"130.255.251.168","latency":"491.619µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:43Z"}
+{"clientIP":"130.255.251.168","latency":"541.83µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:43Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 3","time":"2024-11-21T05:11:43Z"}
+{"clientIP":"130.255.251.168","latency":"494.65µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:44Z"}
+{"clientIP":"130.255.251.168","latency":"503.95µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:44Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 4","time":"2024-11-21T05:11:44Z"}
+{"clientIP":"130.255.251.168","latency":"338.827µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:44Z"}
+{"clientIP":"130.255.251.168","latency":"423.138µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:44Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 5","time":"2024-11-21T05:11:44Z"}
+{"clientIP":"130.255.251.168","latency":"426.119µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:44Z"}
+{"clientIP":"130.255.251.168","latency":"346.757µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:44Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 6","time":"2024-11-21T05:11:44Z"}
+{"clientIP":"130.255.251.168","latency":"394.647µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"341.026µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 7","time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"371.087µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"392.427µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 8","time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"381.628µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"314.216µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 9","time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"382.967µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"406.528µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 10","time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"438.659µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 11","time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"314.446µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"450.688µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"477.719µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:45Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 12","time":"2024-11-21T05:11:45Z"}
+{"clientIP":"130.255.251.168","latency":"486.989µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:46Z"}
+{"clientIP":"130.255.251.168","latency":"526.7µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:46Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 13","time":"2024-11-21T05:11:46Z"}
+{"clientIP":"130.255.251.168","latency":"455.149µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:46Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 14","time":"2024-11-21T05:11:46Z"}
+{"clientIP":"130.255.251.168","latency":"3.483906ms","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:46Z"}
+{"clientIP":"130.255.251.168","latency":"515.8µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:46Z"}
+{"clientIP":"130.255.251.168","latency":"575.151µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:11:56Z"}
+{"clientIP":"130.255.251.168","latency":"450.109µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T05:11:56Z"}
+{"clientIP":"130.255.251.168","latency":"726.174µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:13Z"}
+{"clientIP":"130.255.251.168","latency":"761.795µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T05:12:13Z"}
+{"clientIP":"130.255.251.168","latency":"492.239µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:14Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 15","time":"2024-11-21T05:12:14Z"}
+{"clientIP":"130.255.251.168","latency":"386.537µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:14Z"}
+{"clientIP":"130.255.251.168","latency":"423.478µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:14Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 16","time":"2024-11-21T05:12:14Z"}
+{"clientIP":"130.255.251.168","latency":"361.467µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:14Z"}
+{"clientIP":"130.255.251.168","latency":"465.729µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:14Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 17","time":"2024-11-21T05:12:14Z"}
+{"clientIP":"130.255.251.168","latency":"379.848µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:14Z"}
+{"clientIP":"130.255.251.168","latency":"386.687µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 18","time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"319.966µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"351.187µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 19","time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"393.418µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"404.917µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 20","time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"433.328µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"232.625µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 21","time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"370.137µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 22","time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"356.677µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"413.968µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 23","time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"184.874µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:15Z"}
+{"clientIP":"130.255.251.168","latency":"384.428µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"clientIP":"130.255.251.168","latency":"425.648µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 24","time":"2024-11-21T05:12:16Z"}
+{"clientIP":"130.255.251.168","latency":"406.368µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 25","time":"2024-11-21T05:12:16Z"}
+{"clientIP":"130.255.251.168","latency":"324.596µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"clientIP":"130.255.251.168","latency":"380.688µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"clientIP":"130.255.251.168","latency":"272.585µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 26","time":"2024-11-21T05:12:16Z"}
+{"clientIP":"130.255.251.168","latency":"458.029µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"clientIP":"130.255.251.168","latency":"851.537µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 27","time":"2024-11-21T05:12:16Z"}
+{"clientIP":"130.255.251.168","latency":"482.66µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"level":"info","msg":"Points updated for Telegram ID: 5727823216, New Points: 28","time":"2024-11-21T05:12:16Z"}
+{"clientIP":"130.255.251.168","latency":"419.528µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"clientIP":"130.255.251.168","latency":"453.298µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:12:16Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:37:00Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:37:00Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:37:00Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:37:00Z"}
+{"level":"info","msg":"Fetching points for Telegram ID: 5727823216","time":"2024-11-21T05:37:12Z"}
+{"level":"info","msg":"Points fetched successfully for Telegram ID: 5727823216","time":"2024-11-21T05:37:12Z"}
+{"clientIP":"130.255.251.168","latency":"1.102441ms","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:12Z"}
+{"level":"info","msg":"User registered/login successful: Telegram ID 5727823216","time":"2024-11-21T05:37:12Z"}
+{"clientIP":"130.255.251.168","latency":"729.424µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/register","status":200,"time":"2024-11-21T05:37:12Z"}
+{"level":"info","msg":"Points incremented for Telegram ID: 5727823216, New Points: 29","time":"2024-11-21T05:37:13Z"}
+{"clientIP":"130.255.251.168","latency":"1.147452ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:13Z"}
+{"level":"info","msg":"Fetching points for Telegram ID: 5727823216","time":"2024-11-21T05:37:14Z"}
+{"level":"info","msg":"Points fetched successfully for Telegram ID: 5727823216","time":"2024-11-21T05:37:14Z"}
+{"clientIP":"130.255.251.168","latency":"628.273µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:14Z"}
+{"level":"info","msg":"Points incremented for Telegram ID: 5727823216, New Points: 30","time":"2024-11-21T05:37:14Z"}
+{"clientIP":"130.255.251.168","latency":"1.03029ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:14Z"}
+{"level":"info","msg":"Fetching points for Telegram ID: 5727823216","time":"2024-11-21T05:37:14Z"}
+{"level":"info","msg":"Points fetched successfully for Telegram ID: 5727823216","time":"2024-11-21T05:37:14Z"}
+{"clientIP":"130.255.251.168","latency":"705.764µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:14Z"}
+{"level":"info","msg":"Points incremented for Telegram ID: 5727823216, New Points: 31","time":"2024-11-21T05:37:14Z"}
+{"clientIP":"130.255.251.168","latency":"1.03561ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:14Z"}
+{"level":"info","msg":"Fetching points for Telegram ID: 5727823216","time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points fetched successfully for Telegram ID: 5727823216","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"673.794µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points incremented for Telegram ID: 5727823216, New Points: 32","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"1.167793ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Fetching points for Telegram ID: 5727823216","time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points fetched successfully for Telegram ID: 5727823216","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"946.828µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points incremented for Telegram ID: 5727823216, New Points: 33","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"1.169443ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Fetching points for Telegram ID: 5727823216","time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points fetched successfully for Telegram ID: 5727823216","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"559.801µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points incremented for Telegram ID: 5727823216, New Points: 34","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"1.355476ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points incremented for Telegram ID: 5727823216, New Points: 35","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"1.129712ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Fetching points for Telegram ID: 5727823216","time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points fetched successfully for Telegram ID: 5727823216","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"614.612µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points incremented for Telegram ID: 5727823216, New Points: 36","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"968.569µs","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Fetching points for Telegram ID: 5727823216","time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points fetched successfully for Telegram ID: 5727823216","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"499.22µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Points incremented for Telegram ID: 5727823216, New Points: 37","time":"2024-11-21T05:37:15Z"}
+{"clientIP":"130.255.251.168","latency":"1.01745ms","level":"info","method":"POST","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:15Z"}
+{"level":"info","msg":"Fetching points for Telegram ID: 5727823216","time":"2024-11-21T05:37:16Z"}
+{"level":"info","msg":"Points fetched successfully for Telegram ID: 5727823216","time":"2024-11-21T05:37:16Z"}
+{"clientIP":"130.255.251.168","latency":"656.533µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:16Z"}
+{"level":"info","msg":"Fetching points for Telegram ID: 5727823216","time":"2024-11-21T05:37:16Z"}
+{"level":"info","msg":"Points fetched successfully for Telegram ID: 5727823216","time":"2024-11-21T05:37:16Z"}
+{"clientIP":"130.255.251.168","latency":"507.48µs","level":"info","method":"GET","msg":"Request completed","path":"/backend/points/5727823216","status":200,"time":"2024-11-21T05:37:16Z"}
+{"level":"info","msg":"Logger initialized and writing to both app.log and console","time":"2024-11-21T05:38:49Z"}
+{"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:38:49Z"}
+{"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:38:49Z"}
+{"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:38:49Z"}

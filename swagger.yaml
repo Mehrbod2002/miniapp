@@ -1,0 +1,88 @@
+openapi: 3.0.0
+info:
+  title: Mini Telegram API
+  version: 1.0.0
+  description: API documentation for Mini Telegram backend.
+
+servers:
+  - url: /backend
+
+paths:
+  /register:
+    post:
+      summary: Register or log in a user
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        '200':
+          description: Success
+        '400':
+          description: Invalid input data
+  /points/{telegram_id}:
+    get:
+      summary: Get user points
+      parameters:
+        - name: telegram_id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Points fetched successfully
+        '404':
+          description: User not found
+    post:
+      summary: Add points to a user
+      parameters:
+        - name: telegram_id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Points added successfully
+        '404':
+          description: User not found
+  /log:
+    post:
+      summary: Log an error
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/LogEntry'
+      responses:
+        '200':
+          description: Log entry saved successfully
+        '400':
+          description: Invalid request body
+
+components:
+  schemas:
+    User:
+      type: object
+      properties:
+        telegram_id:
+          type: integer
+        username:
+          type: string
+        password:
+          type: string
+    LogEntry:
+      type: object
+      properties:
+        message:
+          type: string
+        stack:
+          type: string
+        user_id:
+          type: integer
+        username:
+          type: string

@@ -4,7 +4,8 @@ import "gorm.io/gorm"
 
 type User struct {
 	gorm.Model
-	Username string `json:"username" gorm:"unique"`
-	Password string `json:"password"`
-	Points   int    `json:"points"`
+	TelegramID int64  `json:"telegram_id" gorm:"unique"`
+	Username   string `json:"username"`
+	Password   string `json:"password"`
+	Points     int    `json:"points"`
 }

@@ -2,16 +2,26 @@ package routes
 
 import (
 	"mini-telegram/controllers"
+	"mini-telegram/middleware"
 
 	"github.com/gin-gonic/gin"
 )
 
 func SetupRoutes() *gin.Engine {
-	router := gin.Default()
+	router := gin.New()
 
-	router.POST("/register", controllers.Register)
-	router.GET("/points/:username", controllers.GetPoints)
-	router.POST("/points/:username", controllers.AddPoints)
+	// Use logging and recovery middleware
+	router.Use(middleware.LoggerMiddleware(), gin.Recovery())
+
+	api := router.Group("/backend")
+	{
+		api.POST("/register", controllers.Register)
+		api.POST("/log", controllers.LogHandler)
+
+		// Protected routes
+		api.GET("/points/:telegram_id", controllers.GetPoints)
+		api.POST("/points/:telegram_id", controllers.AddPoints)
+	}
 
 	return router
 }
