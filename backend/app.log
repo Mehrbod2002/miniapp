@@ -293,3 +293,6 @@
 {"level":"info","msg":"Starting server on port 8080","time":"2024-11-21T05:49:53Z"}
 {"level":"info","msg":"Starting database migration...","time":"2024-11-21T05:49:53Z"}
 {"level":"info","msg":"Database migration completed.","time":"2024-11-21T05:49:53Z"}
+{"clientIP":"154.213.187.52","latency":"19.871µs","level":"info","method":"CONNECT","msg":"Request completed","path":"","status":404,"time":"2024-11-21T06:07:11Z"}
+{"clientIP":"59.126.81.234","latency":"59.481µs","level":"info","method":"GET","msg":"Request completed","path":"/","status":404,"time":"2024-11-21T06:10:45Z"}
+{"clientIP":"59.126.81.234","latency":"51.511µs","level":"info","method":"GET","msg":"Request completed","path":"/","status":404,"time":"2024-11-21T06:10:46Z"}
